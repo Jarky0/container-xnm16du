@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Jarky0",
+  "repo": "container-xnm16du",
+  "name": "Jarky0",
+}
